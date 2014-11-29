@@ -13,6 +13,7 @@ public class GetString
 		String s=br.readLine();
 		System.out.println("Test git branch");
 		System.out.println("master amd branch");
+		System.out.println("branch dev Test");
 		return s;
 	}
 	

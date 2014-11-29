@@ -11,6 +11,7 @@ public class GetString
 		InputStreamReader is=new InputStreamReader(System.in);
 		BufferedReader br=new BufferedReader(is);
 		String s=br.readLine();
+		System.out.println("Test git branch");
 		return s;
 	}
 	

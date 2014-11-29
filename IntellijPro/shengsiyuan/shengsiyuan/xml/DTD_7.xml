@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students SYSTEM "DTD_7.dtd">
+<students>
+	<Per relID="p1" name="kof" IsMan="male" state="divorced"></Per>
+	<Per relID="p2" parentID="p1 p2"  name="konfer" IsMan="male" ></Per>
+</students>  

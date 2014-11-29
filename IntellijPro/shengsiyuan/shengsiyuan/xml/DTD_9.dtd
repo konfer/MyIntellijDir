@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Student_list (student+)>
+<!ELEMENT student (name ,isMale,age)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT isMale (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ATTLIST student id ID #REQUIRED> 

@@ -1,0 +1,43 @@
+<html>
+	<head>
+	     <title>
+		    html元素
+		 </title>
+		 <link rel="stylesheet" type=""test/css" href="css/table.css">
+	</head>
+	<body>
+			<table boder="1" align="center" width="80%"  color="red">
+			<p>网页链接</p>
+			<p class="right">右对齐</p>
+			<p class="center">左对齐</p>
+			<a href="http://www.baidu.com">这是一个标签</a>
+					<tr>
+							<th>aa</th>
+							<th>bb</th>
+					</tr>
+					<tr>	
+							<td><b>ee<b></td>
+							<td aligh=""center"><b>ff</b></td>
+							<form>
+									username:<input type="text"><br>
+									password:<input type=""password">
+									兴趣：学习<input type="checkbox">
+											 旅游<input type="checkbox">
+											 睡觉<input type="checkbox">
+										性别:男<input type="radio"  name="gender">
+										       女<input type="radio" name="gender">
+										学历：<select>
+														<option>小学</option>
+														<option>中学</option>
+														<option>大学</option>
+														<option>高中</option>
+										        </select><br>
+												<input type="submit"  value="submit">
+												<input type="reset" value="清空" >
+												<input type="button" value="button"  onclick="javascrpt:alert('hello world')">
+							</form>
+					</tr>
+			</table>
+	</body>
+
+</html>

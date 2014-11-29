@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE poem SYSTEM "dtd_3.dtd"[
+<!ELEMENT poem (author,title,content)>
+<!ELEMENT content (#PCDATA)>
+]>
+
+<poem>
+	<author>王维</author>
+	<title>鹿柴</title>
+	<content>诗</content>
+</poem>

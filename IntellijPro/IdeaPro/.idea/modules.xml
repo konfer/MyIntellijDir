@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IdeaPro/ArrayListDemo/ArrayListDemo.iml" filepath="$PROJECT_DIR$/IdeaPro/ArrayListDemo/ArrayListDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaPro/HashDemo/HashDemo.iml" filepath="$PROJECT_DIR$/IdeaPro/HashDemo/HashDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaPro/LinkList/LinkList.iml" filepath="$PROJECT_DIR$/IdeaPro/LinkList/LinkList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaPro/Queue/Queue.iml" filepath="$PROJECT_DIR$/IdeaPro/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaPro/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/IdeaPro/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaPro/StackDemo/StackDemo.iml" filepath="$PROJECT_DIR$/IdeaPro/StackDemo/StackDemo.iml" />
+    </modules>
+  </component>
+</project>

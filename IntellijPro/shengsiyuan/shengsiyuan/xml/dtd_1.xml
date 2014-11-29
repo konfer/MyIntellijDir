@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE poem [
+	<!ELEMENT poem (author+, title*, content?)>
+	<!ELEMENT author (#PCDATA)>
+	<!ELEMENT title (#PCDATA)>
+	<!ELEMENT content (#PCDATA)>
+	<!ATTLIST title name ID #REQUIRED>
+]>
+<poem>
+	<author>王维</author>
+	<author>李白</author>
+	<title name="good">诗名</title>
+	<title name="goo">人</title>
+	<content>诗</content>
+</poem>

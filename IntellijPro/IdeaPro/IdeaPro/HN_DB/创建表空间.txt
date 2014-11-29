@@ -1,0 +1,41 @@
+--创建默认表空间：
+create tablespace wsec_main
+datafile 'D:\oracle\product\10.1.0\oradata\orcl\wsec_main.dbf' size 500M
+autoextend on next 100M maxsize unlimited logging
+extent management local autoallocate
+segment space management auto;
+--创建临时表空间：
+create temporary tablespace wsec_temp
+tempfile 'D:\oracle\product\10.1.0\oradata\orcl\wsec_temp.dbf' size 50M
+autoextend on next 10M maxsize unlimited;
+
+Summary:  创建PI2005所需的表空间。
+  Parameters: 
+    1 - PI2005数据库文件的存放位置，如 'C:\ORACLE\ORADATA\MW'。
+    (注意：此路径是指数据库服务器上的绝对路径。)
+  Prerequests:
+    数据库已经创建。
+  Usage:
+    在SQLPLUS中以数据库管理员账户执行。
+  Examples:
+    startE:\tt\MWOra9i2_CreateTablespaces C:\ORACLE\ORADATA\MW10
+-------------------------------------------------------------------------------*/
+
+CREATE TABLESPACE "MWS_SYS" 
+    LOGGING 
+    DATAFILE '&1\MWS_SYS.ora' SIZE 500M 
+    AUTOEXTEND 
+    ON NEXT  100M MAXSIZE UNLIMITED EXTENT MANAGEMENT LOCAL 
+    SEGMENT SPACE MANAGEMENT  AUTO ;
+CREATE TABLESPACE "MWS_RTM" 
+    LOGGING 
+    DATAFILE '&1\MWS_RTM.ora' SIZE 500M 
+    AUTOEXTEND 
+    ON NEXT  100M MAXSIZE UNLIMITED EXTENT MANAGEMENT LOCAL 
+    SEGMENT SPACE MANAGEMENT  AUTO ;
+CREATE TABLESPACE "MWS_APP" 
+    LOGGING 
+    DATAFILE '&1\MWS_APP.ora' SIZE 500M 
+    AUTOEXTEND 
+    ON NEXT  100M MAXSIZE UNLIMITED EXTENT MANAGEMENT LOCAL 
+    SEGMENT SPACE MANAGEMENT  AUTO ;    

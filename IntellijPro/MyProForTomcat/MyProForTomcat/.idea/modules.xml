@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../IdeaPro/IdeaPro/ArrayListDemo/ArrayListDemo.iml" filepath="$PROJECT_DIR$/../../IdeaPro/IdeaPro/ArrayListDemo/ArrayListDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../IdeaPro/IdeaPro/HashDemo/HashDemo.iml" filepath="$PROJECT_DIR$/../../IdeaPro/IdeaPro/HashDemo/HashDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../IdeaPro/IdeaPro/LinkList/LinkList.iml" filepath="$PROJECT_DIR$/../../IdeaPro/IdeaPro/LinkList/LinkList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../MyAlgorithmsPro/MyAlgorithmsPro/MyAlgorithmsPro.iml" filepath="$PROJECT_DIR$/../../MyAlgorithmsPro/MyAlgorithmsPro/MyAlgorithmsPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../MyDataStructure/MyDataStructure/MyDataStructure.iml" filepath="$PROJECT_DIR$/../../MyDataStructure/MyDataStructure/MyDataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../MyPro/MyPro/MyPro.iml" filepath="$PROJECT_DIR$/../../MyPro/MyPro/MyPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProForTomcat.iml" filepath="$PROJECT_DIR$/MyProForTomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../IdeaPro/IdeaPro/Queue/Queue.iml" filepath="$PROJECT_DIR$/../../IdeaPro/IdeaPro/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../IdeaPro/IdeaPro/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/../../IdeaPro/IdeaPro/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../IdeaPro/IdeaPro/StackDemo/StackDemo.iml" filepath="$PROJECT_DIR$/../../IdeaPro/IdeaPro/StackDemo/StackDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../shengsiyuan/shengsiyuan/shengsiyuan.iml" filepath="$PROJECT_DIR$/../../shengsiyuan/shengsiyuan/shengsiyuan.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="gbk" standalone="yes"?>
+<students>
+	<student gender="male" isGoodMan="true">
+		<id>100</id>
+		<name>lisi</name>
+	</student>
+	<student gender="female" isGoodMan="true">
+		<id>80</id>
+		<name>zhangsan</name>
+		<address>北京</address>
+	</student>
+	<student>
+		<id>200</id>
+		<name>wangwu</name>
+	</student>
+	
+</students>

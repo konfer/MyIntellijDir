@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<students>
+
+	<student>
+		<id>100</id>
+		<name>lisi</name>
+		<address>beijing</address>
+	</student>
+
+	<student>
+		<id>10</id>
+		<name>jii</name>
+		<address>beijing</address>
+	</student>
+
+</students>

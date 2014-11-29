@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Student_list SYSTEM "F:\shengsiyuan\xml\DTD_9.dtd">
+<Student_list>
+	<student id="r1">
+		<name/>
+		<isMale/>
+		<age/>
+	</student>
+</Student_list>

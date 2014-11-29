@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE company
+[
+	<!ENTITY hongming "红名">
+	<!ENTITY address "北京西城">
+]>
+<company>
+	<name>&hongming;</name>
+	<address>&address;</address>
+</company>

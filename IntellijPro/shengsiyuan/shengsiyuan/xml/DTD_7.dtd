@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT students (Per+)>
+<!ELEMENT Per EMPTY>
+<!ATTLIST Per
+  relID ID #REQUIRED
+  parentID IDREFS #IMPLIED
+  name CDATA #REQUIRED
+  state (single|married|divorced|widowed) #IMPLIED
+  IsMan (male|female) #REQUIRED
+>

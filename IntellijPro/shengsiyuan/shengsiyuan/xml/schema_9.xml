@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///F:/shengsiyuan/xml/schema_8.xsd">
+	<name>liny</name>
+	<birthday>1985-11-16</birthday>
+	<age>27</age>
+</person>

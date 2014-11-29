@@ -1,0 +1,15 @@
+p
+{
+		text-align:center;
+		color:red
+}
+
+p.right
+{
+		text-align:right;
+}
+
+p.center
+{
+
+}

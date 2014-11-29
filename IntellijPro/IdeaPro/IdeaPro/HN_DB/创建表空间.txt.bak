@@ -1,0 +1,10 @@
+--创建默认表空间：
+create tablespace wsec_main
+datafile 'D:\oracle\product\10.1.0\oradata\orcl\wsec_main.dbf' size 500M
+autoextend on next 100M maxsize unlimited logging
+extent management local autoallocate
+segment space management auto;
+--创建临时表空间：
+create temporary tablespace wsec_temp
+tempfile 'D:\oracle\product\10.1.0\oradata\orcl\wsec_temp.dbf' size 50M
+autoextend on next 10M maxsize unlimited;

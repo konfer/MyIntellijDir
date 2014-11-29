@@ -12,7 +12,7 @@ public class GetString
 		BufferedReader br=new BufferedReader(is);
 		String s=br.readLine();
 		System.out.println("Test git branch");
-		System.out.println("master commit");
+		System.out.println("master amd branch");
 		return s;
 	}
 	

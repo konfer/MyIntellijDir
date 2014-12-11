@@ -14,6 +14,7 @@ public class GetString
 		System.out.println("Test git branch");
 		System.out.println("master amd branch");
 		System.out.println("branch dev Test");
+		System.out.println("dev branch not commit");
 		return s;
 	}
 	
